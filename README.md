@@ -24,7 +24,7 @@ Because I have a foundational background in software engineering and database ar
 
 | Project | Focus | Description |
 |---|---|---|
-| **[1816 Car Rental Co. - BA Artifacts](#)** | Business Analysis | Elicited requirements, mapped BPMN process flows, authored User Stories/Acceptance Criteria, and coordinated stakeholder UAT for a web-based IoT GPS tracking system. |
+| **[1816 Car Rental Co. - BA Capstone](#)** | Business Analysis | Elicited functional requirements through client interviews and integrated adviser recommendations into system documentation. Authored the project's data privacy protocols, conducted the ISO/IEC 25010 system evaluation, and developed the backend reporting modules for revenue CSV exports. |
 | **[SQL Data Cleaning & EDA](#)** | Data Analytics | Used MySQL to clean a messy global layoffs dataset. Removed duplicates via CTEs, executed self-joins for missing data imputation, and calculated rolling totals. |
 | **[Power BI Superstore Modeling](#)** | Business Intelligence | Diagnosed and resolved a critical Many-to-Many cardinality model failure by tracing phantom null rows via Power Query to establish a clean 1-to-Many relationship. |
 
@@ -34,6 +34,7 @@ My primary focus is Analytics and Business Requirements, but my hands-on academi
 
 * **[CourseDock / CMS](https://github.com/ychine/CMS):** Gathered user requirements for academic monitoring and designed the MySQL database schema to accurately track courseware and syllabus submissions.
 * **[RevOn Car Rental ERP](https://github.com/RevOn-ERP/car-rental-erp):** Mapped out the business process flows for fleet reservations and modeled the relational database to handle billing, reporting, and customer transactions.
+* **[PLP Alumni Tracer](https://github.com/psycheo/plp-alumni-tracer):** Defined system requirements for alumni employability tracking and structured the backend architecture to support data prediction features.
 * **[ACSIS](https://github.com/unticheating/ACSIS):** Elicited access control requirements and configured PostgreSQL databases to align with institutional security policies and Google OAuth standards.
 * **[SIA-2](https://github.com/RexNavarro7/SIA-2):** Translated business rules into backend logic and structured the Express/MySQL database connection to ensure data integrity.
 * **Blockchain/Web3 Learning:** Adapted Stellar/Soroban testnet templates using TypeScript and Rust to understand decentralized system logic.
@@ -42,5 +43,5 @@ My primary focus is Analytics and Business Requirements, but my hands-on academi
 
 I am actively seeking OJT, internship, and entry-level opportunities as a Business Analyst, Junior Data Analyst, or BI Analyst. 
 
-* **LinkedIn:** [linkedin.com/in/your-url-here](#)
-* **Email:** [your-email@example.com](mailto:your-email@example.com)
+* **LinkedIn:** (https://www.linkedin.com/in/rex-navarro-997a17388/)
+* **Email:** navarrorex438@gmail.com
