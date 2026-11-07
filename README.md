@@ -1,56 +1,46 @@
-Hi, I'm Rex Navarro
+# Hi, I'm Rex Navarro 📊
 
-Aspiring Business Analyst | Data Analyst
+### Business Analyst | Data Analyst | IT-to-Business Translator
 
-I am a BSIT student building a career in Business Analysis, Data Analytics, and Business Intelligence. I turn business needs into structured requirements, process improvements, data-backed insights, and practical system solutions.
+I am a BSIT student transitioning into Business Analysis and Data Analytics. I bridge the gap between raw data, technical constraints, and executive strategy. 
 
-My technical background helps me communicate effectively with both business stakeholders and development teams—from defining requirements and validating workflows to understanding databases, integrations, and system constraints.
+Because I have a foundational background in software engineering and database architecture, I don't just gather requirements—I understand how they are actually built. I specialize in translating business needs into structured process flows, troubleshooting complex data models, and delivering actionable insights.
 
-What I Focus On
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Business_Analysis-FF6F00?style=for-the-badge&logo=trello&logoColor=white" />
+</p>
 
-- Requirements gathering and stakeholder collaboration
-- User stories, acceptance criteria, and functional documentation
-- As-Is and To-Be process analysis
-- Business process modeling and workflow improvement
-- SQL data cleaning and exploratory data analysis
-- Power BI data modeling, Power Query troubleshooting, and dashboard design
-- Excel trackers, validation controls, formulas, and reporting dashboards
-- User acceptance testing and software-quality evaluation
+## ⚙️ Core Competencies
 
-Analytics & BA Toolkit
+* **Business Analysis:** Requirements elicitation, User Stories, Acceptance Criteria, UAT coordination, ISO/IEC 25010 software quality evaluation.
+* **Process Engineering:** As-Is and To-Be process analysis, BPMN mapping, workflow optimization.
+* **Data Analytics:** SQL (CTEs, Window Functions, Self-Joins), Exploratory Data Analysis (EDA), raw data cleaning and standardization.
+* **Business Intelligence:** Power BI data modeling, Power Query ETL, resolving cardinality errors (Many-to-Many), dashboard design.
 
-| Area                  | Tools and Skills |
-|-----------------------|-------------------------------------------------------------------------------------|
-| Data Analysis         | SQL, MySQL, data cleaning, CTEs, window functions, exploratory data analysis |
-| Business Intelligence | Power BI, Power Query, data modeling, relationship troubleshooting, dashboard design |
-| Reporting             | Microsoft Excel, data validation, conditional formatting, `COUNTIF`, `SUMIFS` |
-| Business Analysis     | Requirements elicitation, user stories, acceptance criteria, process mapping, UAT |
-| Systems Analysis      | Solution evaluation, stakeholder testing, ISO/IEC 25010 quality evaluation |
+## 🚀 Featured Analytics & BA Portfolio
 
-Featured Portfolio Work
+| Project | Focus | Description |
+|---|---|---|
+| **[1816 Car Rental Co. - BA Artifacts](#)** | Business Analysis | Elicited requirements, mapped BPMN process flows, authored User Stories/Acceptance Criteria, and coordinated stakeholder UAT for a web-based IoT GPS tracking system. |
+| **[SQL Data Cleaning & EDA](#)** | Data Analytics | Used MySQL to clean a messy global layoffs dataset. Removed duplicates via CTEs, executed self-joins for missing data imputation, and calculated rolling totals. |
+| **[Power BI Superstore Modeling](#)** | Business Intelligence | Diagnosed and resolved a critical Many-to-Many cardinality model failure by tracing phantom null rows via Power Query to establish a clean 1-to-Many relationship. |
 
-| Project                                   | Focus                                                                       | Status      |
-|-------------------------------------------|-----------------------------------------------------------------------------|-------------|
-| SQL Data Cleaning & EDA — Layoffs Dataset | MySQL cleaning, missing-data treatment, CTEs, self-joins, window functions  | Coming soon |
-| Power BI Superstore Data Modeling         | Resolving many-to-many relationships and phantom null rows with Power Query | Coming soon |
-| 1816 Car Rental Co. — BA Case Study       | Requirements, user stories, BPMN/process flows, UAT, and quality evaluation | Coming soon |
+## 💻 Systems Analysis & Database Architecture Experience
 
-Technical Foundation
+My primary focus is Analytics and Business Requirements, but my hands-on academic projects prove I understand system architecture and can effectively collaborate with development teams:
 
-My primary goal is Business and Data Analysis, supported by practical software-development experience. My academic and team repositories demonstrate that I understand how systems are designed and built.
+* **[CourseDock / CMS](https://github.com/ychine/CMS):** Gathered user requirements for academic monitoring and designed the MySQL database schema to accurately track courseware and syllabus submissions.
+* **[RevOn Car Rental ERP](https://github.com/RevOn-ERP/car-rental-erp):** Mapped out the business process flows for fleet reservations and modeled the relational database to handle billing, reporting, and customer transactions.
+* **[ACSIS](https://github.com/unticheating/ACSIS):** Elicited access control requirements and configured PostgreSQL databases to align with institutional security policies and Google OAuth standards.
+* **[SIA-2](https://github.com/RexNavarro7/SIA-2):** Translated business rules into backend logic and structured the Express/MySQL database connection to ensure data integrity.
+* **Blockchain/Web3 Learning:** Adapted Stellar/Soroban testnet templates using TypeScript and Rust to understand decentralized system logic.
 
-- **PHP, MySQL/MariaDB, HTML, CSS, and JavaScript** — team ERP system development through [RevOn Car Rental ERP](https://github.com/RevOn-ERP/car-rental-erp)
-- **JavaScript, Node.js, Express, and MySQL** — backend setup and database connectivity through [SIA-2](https://github.com/RexNavarro7/SIA-2)
-- **PostgreSQL, Node tooling, and Google OAuth configuration** — systems exposure through [ACSIS](https://github.com/unticheating/ACSIS)
-- **TypeScript, Rust, PowerShell, Shell, and blockchain workshop tooling** — hands-on learning through Stellar workshop projects
-- **Collaborative systems development** — [CourseDock / CMS](https://github.com/ychine/CMS), [PLP Alumni Tracer](https://github.com/psycheo/plp-alumni-tracer), and related academic team projects
+## 📫 Let's Connect
 
-Career Direction
+I am actively seeking OJT, internship, and entry-level opportunities as a Business Analyst, Junior Data Analyst, or BI Analyst. 
 
-I am seeking opportunities where I can contribute as a Business Analyst, Junior Data Analyst, or BI-focused professional—helping teams clarify requirements, improve processes, validate systems, and turn data into useful decisions.
-
-Connect
-
-- GitHub: [@RexNavarro7](https://github.com/RexNavarro7)
-- LinkedIn: (https://www.linkedin.com/in/rex-navarro-997a17388/)
-- Email: navarrorex438@gmail.com
+* **LinkedIn:** [linkedin.com/in/your-url-here](#)
+* **Email:** [your-email@example.com](mailto:your-email@example.com)
